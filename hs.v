@@ -36,5 +36,5 @@ module hstb();
 endmodule
 
 //eda playgroung link
-https://www.edaplayground.com/x/ifpX
+www.edaplayground.com/x/ifpX
 
