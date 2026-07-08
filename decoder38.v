@@ -23,7 +23,8 @@ module tb();
   decoder3_8 dut(a,y);
   initial
     begin
-      $dumpfile("dump.vcd"); $dumpvars;
+      $dumpfile("dump.vcd"); 
+      $dumpvars;
       
     end
   initial begin
